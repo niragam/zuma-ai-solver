@@ -3,7 +3,7 @@
 This project was implemented as part of a university Artificial Intelligence course.  
 It explores classical search algorithms to solve a variant of the puzzle game Zuma.
 
-![zuma](https://imgur.com/a/b6BBf4J)
+![zuma](zuma.png)
 
 ---
 
